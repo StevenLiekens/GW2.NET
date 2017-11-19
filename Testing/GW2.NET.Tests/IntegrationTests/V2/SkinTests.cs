@@ -1,4 +1,4 @@
-﻿namespace GW2NET.IntegrationTests.V2
+namespace GW2NET.IntegrationTests.V2
 {
     using System.Linq;
 
